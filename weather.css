@@ -1,0 +1,24 @@
+h1 {font-size: 100px; 
+    font-family: 'Prosto One', cursive;
+color:red; margin-top: 50px; margin-left: 50px;
+background-color:white;}
+li 
+{ display: inline; margin:10px;font-family: 'Prosto One', cursive;: 50px
+    ;}
+    ul {background-color: white; margin-left: 50px; margin-right: 50px}
+    background-color: #ffecc1;
+
+}
+{text-align: center;}
+    ul {background-color: white; margin-left: 50px; margin-right: 50px; color:white;}
+        ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 10px;}
+ul a:link {
+    color: blue; text-decoration: none}
+ul a:visited {
+    color: black; }
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png");
+    

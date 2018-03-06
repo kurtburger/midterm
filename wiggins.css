@@ -1,0 +1,47 @@
+h1 {font-size: 100px; 
+    font-family: 'Prosto One', cursive; text-align:center;
+color:red; margin-top: 50px; margin-left: 500px; margin-right: 500px;
+background-color:white;border-style: solid;border-width: 8px;border-color:black; }
+h2 {font-size: 60px; 
+    font-family: 'Prosto One', cursive; text-align:center;
+color:red; margin-top: 10px; margin-left: 500px; margin-right: 500px; margin-bottom: 20px;
+background-color:white;border-style: solid;border-width: 8px;border-color:black; }
+li 
+{ display: inline; margin:10px;font-family: 'Prosto One', cursive;: 50px; text-align:center;
+    ;}
+    ul {background-color: white; margin-left: 500px;margin-right: 500px; border-style: solid;border-width: 8px;border-color:black; text-align:center;}
+    background-color: #ffecc1;}
+{text-align: center;}
+    ul {background-color: white; margin-left: 50px; color:white;}
+        ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 10px;}
+ul a:link {
+    color: blue; text-decoration: none}
+ul a:visited {
+    color: red; }
+body{
+    background-image: url("https://wallscover.com/images/union-jack-1.jpg");
+background-size: 3000px; }
+
+
+
+article 
+
+h4 {font-size: 40px; 
+    font-family: 'Prosto One', cursive;
+color:red; margin-top: 50px; margin-left: 50px; margin-right: 500px;
+background-color:white;
+border-style: solid;
+border-width: 8px;border-color:black}
+
+
+
+p {font-size: 15px;
+    font-family: 'Prosto One', cursive; text-align:right;
+color:blue; margin-top: 0px; margin-left: 50px; margin-right: 500px;
+background-color:white;border-style: solid;border-width: 8px;border-color:black}
+img {
+    size:100px;
+margin-top: 0px; margin-left: 50px; margin-right: 500px;border-style: solid;border-width: 8px;}

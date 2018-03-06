@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" type="text/css" href="weatherreset.css">
+<link rel="Stylesheet" type="text/css" href="weatherlink.css">
+<link href="https://fonts.googleapis.com/css?family=Prosto+One" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>BBC</h1>
+    <ul>
+      <li><a href="#">News</a></li>
+      <li><a href="#">Sport</a></li>
+      <li><a href="weatherlink.html">Weather</a></li>
+      <li><a href="#">Shop</a></li>
+      <li><a href="#">Earth</a></li>
+      <li><a href="#">Travel</a></li>
+    </ul>
+  </header>
